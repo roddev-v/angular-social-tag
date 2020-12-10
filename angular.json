@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-social-tag"
+    }
+  },
+  "defaultProject": "angular-social-tag",
+  "cli": {
+    "analytics": "ad0aa96d-5e53-4bcc-ba48-2cc200d55f5a"
+  }
 }
