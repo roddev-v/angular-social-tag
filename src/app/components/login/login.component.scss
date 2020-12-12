@@ -1,0 +1,20 @@
+app-login {
+  .account-action-link {
+    color: #057bfe;
+    padding: 4px 0 4px 0;
+  }
+
+  .account-action-link:hover {
+    cursor: pointer;
+  }
+
+  .login-wrapper {
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .card {
+    border-radius: 14px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  }
+}
